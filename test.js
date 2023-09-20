@@ -1,6 +1,6 @@
 console.log("test1");
 
 // new feature
-function abc(a, b) {
+function newfeature(a, b) {
     return a + b;
 }
